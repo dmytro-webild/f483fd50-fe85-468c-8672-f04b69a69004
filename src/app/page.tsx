@@ -72,15 +72,15 @@ export default function LandingPage() {
           features={[
             {
               id: "fast-turnaround",              title: "Fast Turnaround",              author: "Services",              description: "Delivered in days, not months.",              tags: ["Speed", "Efficiency"],
-              imageSrc: "http://img.b2bpic.net/free-vector/abstract-background-design_1128-124.jpg",              imageAlt: "minimal dark grid pattern professional"
+              imageSrc: "http://img.b2bpic.net/free-vector/abstract-background-design_1128-124.jpg?_wi=1",              imageAlt: "minimal dark grid pattern professional"
             },
             {
               id: "mobile-first",              title: "Mobile-First",              author: "Services",              description: "Looks perfect on every screen.",              tags: ["Responsive", "Modern"],
-              imageSrc: "http://img.b2bpic.net/free-vector/smoothies-bar-landing-page_23-2148682482.jpg",              imageAlt: "ice cream business website design"
+              imageSrc: "http://img.b2bpic.net/free-vector/smoothies-bar-landing-page_23-2148682482.jpg?_wi=1",              imageAlt: "ice cream business website design"
             },
             {
               id: "seo-ready",              title: "Built to Be Found",              author: "Services",              description: "SEO-ready from day one.",              tags: ["SEO", "Visibility"],
-              imageSrc: "http://img.b2bpic.net/free-vector/display-advertisement-advertisement-advertisement-advertisement-advertisement-advertisement-advertisement-advertisement-advertisement_125964-1409.jpg",              imageAlt: "web design portfolio gallery showcase"
+              imageSrc: "http://img.b2bpic.net/free-vector/display-advertisement-advertisement-advertisement-advertisement-advertisement-advertisement-advertisement-advertisement-advertisement_125964-1409.jpg?_wi=1",              imageAlt: "web design portfolio gallery showcase"
             }
           ]}
           animationType="blur-reveal"
@@ -96,15 +96,15 @@ export default function LandingPage() {
           products={[
             {
               id: "marcoza",              brand: "Restaurant",              name: "Marcoza — Luxury Italian Trattoria",              price: "Custom Design",              rating: 5,
-              reviewCount: "Completed",              imageSrc: "http://img.b2bpic.net/free-photo/homemade-recipe-food-nutrition-appetite_53876-133764.jpg",              imageAlt: "restaurant website luxury dark elegant"
+              reviewCount: "Completed",              imageSrc: "http://img.b2bpic.net/free-photo/homemade-recipe-food-nutrition-appetite_53876-133764.jpg?_wi=1",              imageAlt: "restaurant website luxury dark elegant"
             },
             {
               id: "southern-ice",              brand: "Food Service",              name: "Southern Ice Co. — Family-Friendly Venue",              price: "Custom Design",              rating: 5,
-              reviewCount: "Completed",              imageSrc: "http://img.b2bpic.net/free-vector/smoothies-bar-landing-page_23-2148682482.jpg",              imageAlt: "ice cream business website design"
+              reviewCount: "Completed",              imageSrc: "http://img.b2bpic.net/free-vector/smoothies-bar-landing-page_23-2148682482.jpg?_wi=2",              imageAlt: "ice cream business website design"
             },
             {
               id: "your-business",              brand: "Next Client",              name: "Your Business — You Could Be Next",              price: "Starting at $199",              rating: 5,
-              reviewCount: "Available",              imageSrc: "http://img.b2bpic.net/free-vector/display-advertisement-advertisement-advertisement-advertisement-advertisement-advertisement-advertisement-advertisement-advertisement_125964-1409.jpg",              imageAlt: "web design portfolio gallery showcase"
+              reviewCount: "Available",              imageSrc: "http://img.b2bpic.net/free-vector/display-advertisement-advertisement-advertisement-advertisement-advertisement-advertisement-advertisement-advertisement-advertisement_125964-1409.jpg?_wi=2",              imageAlt: "web design portfolio gallery showcase"
             }
           ]}
           gridVariant="three-columns-all-equal-width"
@@ -142,19 +142,19 @@ export default function LandingPage() {
           features={[
             {
               id: "discovery",              title: "Discovery",              author: "Step 1",              description: "We learn your business, goals, and vision.",              tags: ["Understanding", "Strategy"],
-              imageSrc: "http://img.b2bpic.net/free-vector/abstract-background-design_1128-124.jpg",              imageAlt: "minimal dark grid pattern professional"
+              imageSrc: "http://img.b2bpic.net/free-vector/abstract-background-design_1128-124.jpg?_wi=2",              imageAlt: "minimal dark grid pattern professional"
             },
             {
               id: "design-build",              title: "Design & Build",              author: "Step 2",              description: "We build a custom site tailored to your brand.",              tags: ["Creation", "Development"],
-              imageSrc: "http://img.b2bpic.net/free-photo/homemade-recipe-food-nutrition-appetite_53876-133764.jpg",              imageAlt: "restaurant website luxury dark elegant"
+              imageSrc: "http://img.b2bpic.net/free-photo/homemade-recipe-food-nutrition-appetite_53876-133764.jpg?_wi=2",              imageAlt: "restaurant website luxury dark elegant"
             },
             {
               id: "review",              title: "Review",              author: "Step 3",              description: "You give feedback, we refine until it's right.",              tags: ["Refinement", "Quality"],
-              imageSrc: "http://img.b2bpic.net/free-vector/smoothies-bar-landing-page_23-2148682482.jpg",              imageAlt: "ice cream business website design"
+              imageSrc: "http://img.b2bpic.net/free-vector/smoothies-bar-landing-page_23-2148682482.jpg?_wi=3",              imageAlt: "ice cream business website design"
             },
             {
               id: "launch",              title: "Launch",              author: "Step 4",              description: "Your site goes live. You start getting found.",              tags: ["Deployment", "Success"],
-              imageSrc: "http://img.b2bpic.net/free-vector/display-advertisement-advertisement-advertisement-advertisement-advertisement-advertisement-advertisement-advertisement-advertisement_125964-1409.jpg",              imageAlt: "web design portfolio gallery showcase"
+              imageSrc: "http://img.b2bpic.net/free-vector/display-advertisement-advertisement-advertisement-advertisement-advertisement-advertisement-advertisement-advertisement-advertisement_125964-1409.jpg?_wi=3",              imageAlt: "web design portfolio gallery showcase"
             }
           ]}
           animationType="blur-reveal"
